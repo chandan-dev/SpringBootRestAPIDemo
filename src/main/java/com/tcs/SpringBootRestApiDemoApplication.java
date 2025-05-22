@@ -8,6 +8,7 @@ public class SpringBootRestApiDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootRestApiDemoApplication.class, args);
+System.out.println("Test");
 	}
 
 }///test for git pull
